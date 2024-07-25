@@ -1,0 +1,23 @@
+import json
+
+
+print('Starting Program...\n')
+# Load the data from the JSON file
+with open('manga.json', 'r') as f:
+    data = json.load(f)
+
+# Extract the chapter numbers
+chapter_numbers = [item['chapter'] for item in data]
+
+# Find duplicates
+seen = set()
+duplicates = set()
+
+for chapter in chapter_numbers:
+    if chapter in seen:
+        duplicates.add(chapter)
+    seen.add(chapter)
+
+print(f'Duplicate chapters: {duplicates}')
+
+print('\nProgram Finished...')
