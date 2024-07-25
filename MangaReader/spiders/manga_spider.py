@@ -3,8 +3,6 @@ import re
 import os
 from urllib.parse import urlparse, urlunparse
 import json
-from collections import defaultdict
-import subprocess
 
 # scrapy crawl manga -o manga.json
 
