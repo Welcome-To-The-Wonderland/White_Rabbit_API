@@ -1,107 +1,4 @@
 {
-    "manga-ny991307": {
-        "title": "Level 999 Demon Lord And A Level 1 Slime",
-        "cover_link": "https://kissmanga.org/mangaimage/manga-ny991307.jpg",
-        "chapters": [
-            {
-                "uid": "manga-ny991307-1",
-                "number": 1.0,
-                "images": [
-                    "https://cm.blazefast.co/2d/bd/2dbd487cb19f8c117c91baf7bddae5d7.jpg",
-                    "https://cm.blazefast.co/cc/4c/cc4c8064d9fa46bdbbfa576411b99e8b.jpg",
-                    "https://cm.blazefast.co/a0/d4/a0d4c2d39715c8264f84db4b51fdd192.jpg",
-                    "https://cm.blazefast.co/f5/cb/f5cb116b29938fc6af66666bcc5e3135.jpg"
-                ]
-            },
-            {
-                "uid": "manga-ny991307-2",
-                "number": 2.0,
-                "images": [
-                    "https://cm.blazefast.co/00/9f/009f35012de3525c741dbf70668dcf8d.jpg",
-                    "https://cm.blazefast.co/16/33/1633e459b3d1f76150992668bbc3bc5f.jpg",
-                    "https://cm.blazefast.co/37/44/374491cec3d299dcf756cdb7ba8438ca.jpg",
-                    "https://cm.blazefast.co/1c/cc/1ccc1e41361af8d7d840939fbd9957f4.jpg"
-                ]
-            },
-            {
-                "uid": "manga-ny991307-3",
-                "number": 3.0,
-                "images": [
-                    "https://cm.blazefast.co/5c/d3/5cd3f121c61751a4e8ae15ec06120144.jpg",
-                    "https://cm.blazefast.co/2e/3a/2e3afe8cd04630edc5457c95b2530c57.jpg",
-                    "https://cm.blazefast.co/e0/c1/e0c15926c877fdab458368c6feb7f3dd.jpg",
-                    "https://cm.blazefast.co/43/a2/43a29a6ac633126581faefb01de5afef.jpg"
-                ]
-            },
-            {
-                "uid": "manga-ny991307-4",
-                "number": 4.0,
-                "images": [
-                    "https://cm.blazefast.co/71/2f/712f6a2350d4a5d36bbca711efba0472.jpg",
-                    "https://cm.blazefast.co/f9/9a/f99a6a70c1739cca999ae48b2a76e92a.jpg",
-                    "https://cm.blazefast.co/88/04/8804c41de0c36946271a165b7c277ac2.jpg",
-                    "https://cm.blazefast.co/85/a4/85a4b0fd95ec978d9fb79cdeee3584b3.jpg"
-                ]
-            },
-            {
-                "uid": "manga-ny991307-5",
-                "number": 5.0,
-                "images": [
-                    "https://cm.blazefast.co/46/6e/466ea679e7d4c06d3af2bcd636ccc3f5.jpg",
-                    "https://cm.blazefast.co/57/60/5760f11144d05c0ff0322ad77d255d08.jpg",
-                    "https://cm.blazefast.co/da/a5/daa5a360b7561d1c7ee8694ae4558e61.jpg",
-                    "https://cm.blazefast.co/1b/ad/1baddc2e2a476e564f3c48d90f4f7c53.jpg"
-                ]
-            },
-            {
-                "uid": "manga-ny991307-6",
-                "number": 6.0,
-                "images": [
-                    "https://cm.blazefast.co/37/24/37241c12c98df16897c39fee53d50522.jpg",
-                    "https://cm.blazefast.co/d4/0c/d40ceac5fe1e9c8e2da8d62b603b5a6e.jpg",
-                    "https://cm.blazefast.co/06/aa/06aa591ce877e7e2c5e0d826d503e242.jpg",
-                    "https://cm.blazefast.co/02/97/02978e8cd953c73a759459a578d5fb4d.jpg"
-                ]
-            },
-            {
-                "uid": "manga-ny991307-7",
-                "number": 7.0,
-                "images": [
-                    "https://cm.blazefast.co/2f/17/2f17f43e8ee6a804b0c6b697263c9085.jpg",
-                    "https://cm.blazefast.co/fb/4f/fb4f48b550942c070fd2a5cfd6b31389.jpg",
-                    "https://cm.blazefast.co/2f/60/2f6057326ac5eebb356cfc0c7507755f.jpg",
-                    "https://cm.blazefast.co/e8/b4/e8b45661d8d74e318f75a251707b0759.jpg"
-                ]
-            },
-            {
-                "uid": "manga-ny991307-8",
-                "number": 8.0,
-                "images": [
-                    "https://cm.blazefast.co/0e/d0/0ed0423cd6cff24f3919b18d04b815c8.jpg",
-                    "https://cm.blazefast.co/4a/08/4a0811320bec42ea14278521ecdb3ea1.jpg",
-                    "https://cm.blazefast.co/35/33/353373f9baae1d85efd81dfc31853378.jpg",
-                    "https://cm.blazefast.co/58/b4/58b42dfebffbc8aa2a866448c3d01ca5.jpg"
-                ]
-            },
-            {
-                "uid": "manga-ny991307-9",
-                "number": 9.0,
-                "images": [
-                    "https://cm.blazefast.co/ed/e5/ede5b227c295285bd2a644166a9dba1e.jpg",
-                    "https://cm.blazefast.co/ed/ac/edac473d88bcff6a07eb4f5eca9b7797.jpg",
-                    "https://cm.blazefast.co/09/96/09962bc119a42f7cbd4132e27c648d19.jpg",
-                    "https://cm.blazefast.co/20/36/2036b493148927c821c99d0862918b28.jpg",
-                    "https://cm.blazefast.co/30/31/3031a500cfcf3b1294b732cce0736b22.jpg",
-                    "https://cm.blazefast.co/40/8b/408b0c8b08e4abf5b339bfc69c3ee597.jpg",
-                    "https://cm.blazefast.co/00/0e/000e93fabaf463d8be887c4a96418bf1.jpg",
-                    "https://cm.blazefast.co/05/23/05237947332a9b933f9607edfa1ec456.jpg",
-                    "https://cm.blazefast.co/7b/d0/7bd0012033767db405912581593c7648.jpg",
-                    "https://cm.blazefast.co/c5/61/c56120c5f772e0a98bd2b278067a5c20.jpg",
-                    "https://cm.blazefast.co/62/ba/62ba5c483da7984b9218bf52af9d362b.jpg"
-                ]
-            }
-        ]
-    },
     "manga-oh991742": {
         "title": "I'M Trapped In This Day For Three Thousand Years",
         "cover_link": "https://kissmanga.org/mangaimage/manga-oh991742.jpg",
@@ -462,6 +359,109 @@
                     "https://cm.blazefast.co/4f/61/4f61266c9ace1baea43eebecf3c5a2d8.jpg",
                     "https://cm.blazefast.co/b1/31/b131214537663b2ac2f74f593cc987f5.jpg",
                     "https://cm.blazefast.co/bb/51/bb51a7c9ba0bea3b9199bc5f137d86f2.jpg"
+                ]
+            }
+        ]
+    },
+    "manga-ny991307": {
+        "title": "Level 999 Demon Lord And A Level 1 Slime",
+        "cover_link": "https://kissmanga.org/mangaimage/manga-ny991307.jpg",
+        "chapters": [
+            {
+                "uid": "manga-ny991307-1",
+                "number": 1.0,
+                "images": [
+                    "https://cm.blazefast.co/2d/bd/2dbd487cb19f8c117c91baf7bddae5d7.jpg",
+                    "https://cm.blazefast.co/cc/4c/cc4c8064d9fa46bdbbfa576411b99e8b.jpg",
+                    "https://cm.blazefast.co/a0/d4/a0d4c2d39715c8264f84db4b51fdd192.jpg",
+                    "https://cm.blazefast.co/f5/cb/f5cb116b29938fc6af66666bcc5e3135.jpg"
+                ]
+            },
+            {
+                "uid": "manga-ny991307-2",
+                "number": 2.0,
+                "images": [
+                    "https://cm.blazefast.co/00/9f/009f35012de3525c741dbf70668dcf8d.jpg",
+                    "https://cm.blazefast.co/16/33/1633e459b3d1f76150992668bbc3bc5f.jpg",
+                    "https://cm.blazefast.co/37/44/374491cec3d299dcf756cdb7ba8438ca.jpg",
+                    "https://cm.blazefast.co/1c/cc/1ccc1e41361af8d7d840939fbd9957f4.jpg"
+                ]
+            },
+            {
+                "uid": "manga-ny991307-3",
+                "number": 3.0,
+                "images": [
+                    "https://cm.blazefast.co/5c/d3/5cd3f121c61751a4e8ae15ec06120144.jpg",
+                    "https://cm.blazefast.co/2e/3a/2e3afe8cd04630edc5457c95b2530c57.jpg",
+                    "https://cm.blazefast.co/e0/c1/e0c15926c877fdab458368c6feb7f3dd.jpg",
+                    "https://cm.blazefast.co/43/a2/43a29a6ac633126581faefb01de5afef.jpg"
+                ]
+            },
+            {
+                "uid": "manga-ny991307-4",
+                "number": 4.0,
+                "images": [
+                    "https://cm.blazefast.co/71/2f/712f6a2350d4a5d36bbca711efba0472.jpg",
+                    "https://cm.blazefast.co/f9/9a/f99a6a70c1739cca999ae48b2a76e92a.jpg",
+                    "https://cm.blazefast.co/88/04/8804c41de0c36946271a165b7c277ac2.jpg",
+                    "https://cm.blazefast.co/85/a4/85a4b0fd95ec978d9fb79cdeee3584b3.jpg"
+                ]
+            },
+            {
+                "uid": "manga-ny991307-5",
+                "number": 5.0,
+                "images": [
+                    "https://cm.blazefast.co/46/6e/466ea679e7d4c06d3af2bcd636ccc3f5.jpg",
+                    "https://cm.blazefast.co/57/60/5760f11144d05c0ff0322ad77d255d08.jpg",
+                    "https://cm.blazefast.co/da/a5/daa5a360b7561d1c7ee8694ae4558e61.jpg",
+                    "https://cm.blazefast.co/1b/ad/1baddc2e2a476e564f3c48d90f4f7c53.jpg"
+                ]
+            },
+            {
+                "uid": "manga-ny991307-6",
+                "number": 6.0,
+                "images": [
+                    "https://cm.blazefast.co/37/24/37241c12c98df16897c39fee53d50522.jpg",
+                    "https://cm.blazefast.co/d4/0c/d40ceac5fe1e9c8e2da8d62b603b5a6e.jpg",
+                    "https://cm.blazefast.co/06/aa/06aa591ce877e7e2c5e0d826d503e242.jpg",
+                    "https://cm.blazefast.co/02/97/02978e8cd953c73a759459a578d5fb4d.jpg"
+                ]
+            },
+            {
+                "uid": "manga-ny991307-7",
+                "number": 7.0,
+                "images": [
+                    "https://cm.blazefast.co/2f/17/2f17f43e8ee6a804b0c6b697263c9085.jpg",
+                    "https://cm.blazefast.co/fb/4f/fb4f48b550942c070fd2a5cfd6b31389.jpg",
+                    "https://cm.blazefast.co/2f/60/2f6057326ac5eebb356cfc0c7507755f.jpg",
+                    "https://cm.blazefast.co/e8/b4/e8b45661d8d74e318f75a251707b0759.jpg"
+                ]
+            },
+            {
+                "uid": "manga-ny991307-8",
+                "number": 8.0,
+                "images": [
+                    "https://cm.blazefast.co/0e/d0/0ed0423cd6cff24f3919b18d04b815c8.jpg",
+                    "https://cm.blazefast.co/4a/08/4a0811320bec42ea14278521ecdb3ea1.jpg",
+                    "https://cm.blazefast.co/35/33/353373f9baae1d85efd81dfc31853378.jpg",
+                    "https://cm.blazefast.co/58/b4/58b42dfebffbc8aa2a866448c3d01ca5.jpg"
+                ]
+            },
+            {
+                "uid": "manga-ny991307-9",
+                "number": 9.0,
+                "images": [
+                    "https://cm.blazefast.co/ed/e5/ede5b227c295285bd2a644166a9dba1e.jpg",
+                    "https://cm.blazefast.co/ed/ac/edac473d88bcff6a07eb4f5eca9b7797.jpg",
+                    "https://cm.blazefast.co/09/96/09962bc119a42f7cbd4132e27c648d19.jpg",
+                    "https://cm.blazefast.co/20/36/2036b493148927c821c99d0862918b28.jpg",
+                    "https://cm.blazefast.co/30/31/3031a500cfcf3b1294b732cce0736b22.jpg",
+                    "https://cm.blazefast.co/40/8b/408b0c8b08e4abf5b339bfc69c3ee597.jpg",
+                    "https://cm.blazefast.co/00/0e/000e93fabaf463d8be887c4a96418bf1.jpg",
+                    "https://cm.blazefast.co/05/23/05237947332a9b933f9607edfa1ec456.jpg",
+                    "https://cm.blazefast.co/7b/d0/7bd0012033767db405912581593c7648.jpg",
+                    "https://cm.blazefast.co/c5/61/c56120c5f772e0a98bd2b278067a5c20.jpg",
+                    "https://cm.blazefast.co/62/ba/62ba5c483da7984b9218bf52af9d362b.jpg"
                 ]
             }
         ]

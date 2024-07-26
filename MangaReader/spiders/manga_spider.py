@@ -14,13 +14,18 @@ class MangaLinkSpider(scrapy.Spider):
         super(MangaLinkSpider, self).__init__(*args, **kwargs)
         if os.path.exists("manga.json"):
             os.remove("manga.json")
+            
+        # Load start_urls from environment variable
+        start_urls_json = os.getenv('START_URLS_JSON', '[]')
+        self.start_urls = json.loads(start_urls_json)
     
-    start_urls = [
-        "https://kissmanga.org/manga/manga-ny991307",
-        #"https://kissmanga.org/manga/manga-ln951470"
-        "https://kissmanga.org/manga/manga-bc979159",
-        "https://kissmanga.org/manga/manga-oh991742",
-    ]
+    # start_urls = [
+    #     "https://kissmanga.org/manga/manga-ny991307",
+    #     #"https://kissmanga.org/manga/manga-ln951470"
+    #     "https://kissmanga.org/manga/manga-bc979159",
+    #     "https://kissmanga.org/manga/manga-oh991742"
+    # ]
+        
     
     
     def parse(self, response):
