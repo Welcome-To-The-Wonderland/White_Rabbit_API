@@ -10,7 +10,8 @@
 BOT_NAME = "MangaReader"
 
 SPIDER_MODULES = ["MangaReader.spiders"]
-NEWSPIDER_MODULE = "MangaReader.spiders"
+ITEM_PIPELINES = {"scrapy.pipelines.files.FilesPipeline": 1}
+FILES_STORE = 'downloads'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent

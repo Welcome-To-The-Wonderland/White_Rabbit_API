@@ -32,6 +32,9 @@ for manga in data:
 for manga in new_data.values():
     manga["chapters"].sort(key=lambda x: x["number"])
 
-# Save the new data
+# Sort the manga by title
+sorted_data = dict(sorted(new_data.items(), key=lambda item: item[1]["title"]))
+
+# Save the sorted data
 with open('manga.json', 'w') as f:
-    json.dump(new_data, f, indent=4)
+    json.dump(sorted_data, f, indent=4)
