@@ -6,9 +6,9 @@ import os
 # run command: python driver.py
 start_urls = [
     "https://kissmanga.org/manga/manga-bc979159",
-    #"https://kissmanga.org/manga/manga-ny991307",
+    "https://kissmanga.org/manga/manga-ny991307",
+    "https://kissmanga.org/manga/manga-oh991742"
     #"https://kissmanga.org/manga/manga-ln951470",
-    #"https://kissmanga.org/manga/manga-oh991742"
 ]
 
 #def driverFunc(start_urls):

@@ -1,0 +1,22 @@
+[
+    {
+       "unique-id":"alpha_numeric_id_1",
+       "manga-list":[
+          "manga-bc979159",
+          "manga-ln951470"
+       ]
+    },
+    {
+       "unique-id":"alpha_numeric_id_2",
+       "manga-list":[
+          "manga-ny991307",
+          "manga-ln951470"
+       ]
+    },
+    {
+       "unique-id":"alpha_numeric_id_3",
+       "manga-list":[
+          
+       ]
+    }
+ ]
